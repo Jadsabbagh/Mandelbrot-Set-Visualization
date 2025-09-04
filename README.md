@@ -109,7 +109,7 @@ For this project, I chose **Python 3** because of its versatility and strong vis
 - Adjust resolution, iteration limits, and color maps to experiment with different visual effects.  
 - Save images to capture my results and share them easily.  
 
-I treated this project as both a **mathematical experiment** and a chance to improve my coding style, aiming for clarity, modularity, and reusability.
+I treated this project as both a **mathematical experiment** and a chance to improve my coding abilities.
 
 ---
 
@@ -124,17 +124,16 @@ Each challenge was an opportunity to **problem-solve creatively** and improve my
 
 ---
 
-## Learning Outcomes
+## Personal Outcomes
 
 This project taught me much more than just generating fractals:
 
 - Deepened my understanding of **complex numbers, iteration, and fractals**.  
 - Improved **Python programming, debugging, and visualization skills**.  
-- Developed the ability to **structure and document code professionally**, making it reusable and readable.  
-- Explored the **intersection of mathematics and computer science**, combining analytical reasoning with creativity.  
-- Learned to **approach complex problems systematically**, iterating on solutions and reflecting on outcomes.
+- Developed the ability to **structure and document code professionally**, making it reusable and readable.    
+- Learned to **approach complex problems systematically**, iterating on solutions.
 
-Overall, it was a **rewarding experience** that prepared me for more advanced CS projects and helped me develop a reflective, disciplined approach to coding and problem-solving.
+Overall, it was a **rewarding experience** that prepared me for more advanced projects and helped me develop a reflective approach problem-solving.
 ---
 
 Readme was written with the assistance of AI tools.
