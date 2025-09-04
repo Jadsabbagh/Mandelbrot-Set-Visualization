@@ -17,7 +17,7 @@ I started this project not just to visualize the this set, but also to **challen
 
 ### 1. Definition
 
-The **Mandelbrot set** \( \mathbb{M} \) is defined as the set of all complex numbers \(c \in \mathbb{C}\) for which the sequence \( \{z_n\} \) defined by:
+The **Mandelbrot set**  is defined as the set of all complex numbers \(c \in \mathbb{C}\) for which the sequence \( \{z_n\} \) defined by:
 
 $$
 \begin{cases}
@@ -26,7 +26,7 @@ z_{n+1} = z_n^2 + c
 \end{cases}
 $$
 
-remains bounded as \( n \to \infty \). Formally:
+Formally:
 
 $$
 \mathbb{M} = \{ c \in \mathbb{C} \mid \limsup_{n \to \infty} |z_n| \le 2 \}
@@ -36,7 +36,7 @@ $$
 
 ### 2. Iterative Computation
 
-Since we cannot compute infinite iterations, we use a **maximum iteration count** \( N_{\text{max}} \). For each point \( c \):
+Since we cannot compute infinite iterations, we use a **maximum iteration count**. For each point \( c \):
 
 1. Start with \( z_0 = 0 \)  
 2. Iterate \( z_{n+1} = z_n^2 + c \) until:  
@@ -55,7 +55,7 @@ $$
 |z_n| > 2
 $$
 
-Otherwise, if \( |z_n| \le 2 \) for all \( n \le N_{\text{max}} \), we consider \( c \) **inside** the set. The choice of 2 as the threshold comes from the property:
+The choice of 2 as the threshold comes from the property:
 
 > If \( |z_n| > 2 \), then the sequence diverges to infinity.
 
